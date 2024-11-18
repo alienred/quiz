@@ -1,5 +1,64 @@
 var quizQuas = [
   {
+    q: "Mit takar az IEEE rövidítés?",
+    a: [
+      "Institute of Electrical and Electronics Engineers.",
+      "International Engineering Education Entity.",
+      "Independent Electricians and Engineers Europe.",
+      "International Experts of Energy Efficiency.",
+    ],
+  },
+
+  {
+    q: "Mi a műsorszétosztó hálózat fő feladata?",
+    a: [
+      "A műsorszolgáltató jeleinek továbbítása műsorszóró adókhoz vagy más elosztó hálózatokhoz.",
+      "A műsorjelek közvetlen továbbítása a végfelhasználók készülékeihez.",
+      "Csak vezeték nélküli jelek sugárzása a fogyasztókhoz.",
+      "A jelek titkosítása és dekódolása műsorszolgáltatók között.",
+    ],
+  },
+
+  {
+    q: "Mi a műsorelosztó hálózat fő feladata?",
+    a: [
+      "A műsorjelek közvetlen továbbítása a fogyasztók készülékeihez.",
+      "A műsorszolgáltatók közötti jelek átvitele.",
+      "Csak műsorszóró adókhoz való jeltovábbítás.",
+      "A jelek módosítása és újrakódolása közvetítés előtt.",
+    ],
+  },
+
+  {
+    q: "Mi a hírközlés modelljének fő célja?",
+    a: [
+      "Az információ továbbítása az adótól a vevőig egy csatornán keresztül.",
+      "A csatornák folyamatos ellenőrzése és karbantartása.",
+      "Az adatok tárolása és titkosítása küldés előtt.",
+      "A kommunikáció sebességének mérése az eszközök között.",
+    ],
+  },
+
+  {
+    q: "Mi a csatorna szerepe a hírközlés modelljében?",
+    a: [
+      "Az adó és a vevő közötti információtovábbítás biztosítása.",
+      "Az adatok titkosítása küldés előtt.",
+      "Az adó és vevő közötti távolság mérésére szolgál.",
+      "Az adatok tárolása az átviteli folyamat során.",
+    ],
+  },
+
+  {
+    q: "Mit nevezünk zajnak a hírközlés modelljében?",
+    a: [
+      "Olyan tényezőket, amelyek torzítják vagy akadályozzák az információ továbbítását.",
+      "Az információ átvitelének sebességét.",
+      "A kommunikációhoz használt csatorna maximális kapacitását.",
+      "Az adó által küldött jelek titkosítását.",
+    ],
+  },
+  {
     q: "Mit jelent a MIMO rövidítés a vezeték nélküli kommunikációban?",
     a: [
       "Multiple Input Multiple Output, több antenna használata a jelátvitel javítására.",
